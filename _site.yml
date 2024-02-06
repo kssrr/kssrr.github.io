@@ -1,0 +1,22 @@
+name: "kssrr-website"
+navbar:
+  title: "Lennart Kasserra's Webpage"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "R Workshop"
+      menu:
+        - text: "About"
+          href: workshop_landing.html
+        - text: "Session 1 - Intro to the tidyverse"
+          href: workshop/00_intro.html
+        - text: "Session 2 - Visualizations with ggplot2"
+          href: workshop/01_visualizations.html
+        - text: "Session 3 - Exploratory Data Analysis & Data Cleaning"
+          href: workshop/02_eda_cleaning.html
+        - text: "Session 4 - Merging & Advanced Manipulations"
+          href: workshop/03_merging_manipulation.html
+        - text: "Session 5 - Final Advice"
+          href: workshop/04_final_advice.html
+    - text: "Datasets"
+      href: data.html

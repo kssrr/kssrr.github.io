@@ -1,0 +1,13 @@
+---
+title: "Datasets"
+output: 
+  html_document:
+    theme: flatly
+---
+
+## German media scrape
+
+One million German language news articles, from 01/2020 to 12/2022, scraped form five big German news websites: Spiegel, WELT, Die Zeit, Süddeutsche & taz. 
+
+* [More information & code](https://www.github.com/kssrr/german-media-scrape)
+* [Download](https://archive.org/download/german-media-scrape_202302/data.tar.gz)

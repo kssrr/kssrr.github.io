@@ -1,0 +1,8 @@
+---
+title: "R Workshop"
+output: 
+  html_document:
+    theme: flatly
+---
+
+This is a workshop on data manipulation with R I gave on January 18th/19th 2024 at the University of Konstanz. The workshop covers basic data manipulation & visualization, as well as foundations of reproducible research.
