@@ -1,0 +1,9 @@
+---
+title: "Tidyverse-Workshop"
+---
+
+# Data Manipulation and Visualization with R
+
+Introductory R-Workshop about data cleaning & manipulation techniques, as well as visualizations in R using the tidyverse. 
+
+[Link to the repository](https://github.com/CorrelAid/correlaidx-kn-datamanipulation)

@@ -1,0 +1,15 @@
+---
+title: "About"
+---
+
+![](assets/me.jpg){width="50%"}
+
+# Introduction
+
+I am Lennart, a Master’s student of Data Science with an interest in quantitative and computational methods of Political Science. I work as a research assistant for [Max Schaub](https://maxschaub.eu/) at the University of Hamburg, currently on the [generational effect of wartime victimization on interpersonal trust and social norms](https://wargen.eu/index.html). I also volunteer at [CorrelAid](https://www.correlaid.org/), where I am head of the [local chapter Konstanz](https://www.correlaid.org/mitmachen/correlaidx/konstanz).
+
+Here, I mostly write about R & Python programming, and software I recommend. Thanks for stopping by!
+
+Github: [kssrr](https://github.com/kssrr)
+
+Mail: [lennart.kasserra@uni-hamburg.de](mailto:lennart.kasserra@uni-hamburg.de)

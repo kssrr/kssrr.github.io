@@ -1,0 +1,21 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "kssrr - Lennart Kasserra"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Home
+      - datasets.qmd
+      - workshop.qmd
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+
+
