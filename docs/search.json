@@ -1,17 +1,10 @@
 [
   {
-    "objectID": "workshop.html",
-    "href": "workshop.html",
-    "title": "Tidyverse-Workshop",
-    "section": "",
-    "text": "Data Manipulation and Visualization with R\nIntroductory R-Workshop about data cleaning & manipulation techniques, as well as visualizations in R using the tidyverse.\nLink to the repository"
-  },
-  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "About",
     "section": "",
-    "text": "Introduction\nI am Lennart, a Master’s student of Data Science with an interest in quantitative and computational methods of Political Science. I work as a research assistant for Max Schaub at the University of Hamburg, currently on the generational effect of wartime victimization on interpersonal trust and social norms. I also volunteer at CorrelAid, where I am head of the local chapter Konstanz.\nHere, I mostly write about R & Python programming, and software I recommend. Thanks for stopping by!\nGithub: kssrr\nMail: lennart.kasserra@uni-hamburg.de"
+    "text": "Introduction\nI am Lennart, a Master’s student of Data Science with an interest in quantitative and computational methods of Political Science. I work as a research assistant for Max Schaub at the University of Hamburg, currently on the generational effect of wartime victimization on interpersonal trust and social norms.\nHere, I mostly write about R & Python programming, and software I recommend. Thanks for stopping by!\nGithub: kssrr\nORCiD: 0009-0007-0052-5973\nMail: lennart.kasserra@uni-hamburg.de"
   },
   {
     "objectID": "datasets.html",
@@ -19,5 +12,19 @@
     "title": "Datasets",
     "section": "",
     "text": "German Media Scrape\nOne million German language news articles, from 01/2020 to 12/2022, scraped from five big German news websites: Spiegel, WELT, Die Zeit, Süddeutsche & taz.\n\nMore information & code\nDownload"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Schaub, M., Abreu, L., Adeyanju, G. C., Abulfathi, A. A., Bello, M. M., Kasserra, L., Kwaku, A.A., Jalo, M.I., Mahmud, A., Schrage, P. & Jalo, R. I. (2026). Can trust in healthcare be restored after armed violence? Evidence from a randomized field experiment in north-eastern Nigeria. Social Science & Medicine, Advance online publication. Link\nSchaub, M., Greiner-Filsinger, A., Henic, A., & Kasserra, L. (2025). Exposure to wartime sexual violence in Bosnia and Herzegovina: nationally representative prevalence 30 years after the 1992–1995 war. Conflict and Health, 19. Link\nSchaub, M., Adeyanju, G. C., Abulfathi, A. A., Bello, M. M., Kasserra, L., Kwaku, A. A., Jalo, M.I., Mahmud, A., Schrage, P., Jalo, R.I. & Abreu, L. (2025). Maternal and child healthcare-seeking among victims of violence in armed conflict: a quasi-experimental study in Northeast Nigeria. BMJ global health, 10(12). Link"
+  },
+  {
+    "objectID": "workshop.html",
+    "href": "workshop.html",
+    "title": "Tidyverse-Workshop",
+    "section": "",
+    "text": "Data Manipulation and Visualization with R\nIntroductory R-Workshop about data cleaning & manipulation techniques, as well as visualizations in R using the tidyverse.\nLink to the repository"
   }
 ]
