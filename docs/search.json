@@ -1,12 +1,5 @@
 [
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "About",
-    "section": "",
-    "text": "Introduction\nI am Lennart, a Master’s student of Data Science with an interest in quantitative and computational methods of Political Science. I work as a research assistant for Max Schaub at the University of Hamburg, currently on the generational effect of wartime victimization on interpersonal trust and social norms.\nHere, I mostly write about R & Python programming, and software I recommend. Thanks for stopping by!\nGithub: kssrr\nORCiD: 0009-0007-0052-5973\nMail: lennart.kasserra@uni-hamburg.de"
-  },
-  {
     "objectID": "datasets.html",
     "href": "datasets.html",
     "title": "Datasets",
@@ -26,5 +19,12 @@
     "title": "Tidyverse-Workshop",
     "section": "",
     "text": "Data Manipulation and Visualization with R\nIntroductory R-Workshop about data cleaning & manipulation techniques, as well as visualizations in R using the tidyverse.\nLink to the repository"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "About",
+    "section": "",
+    "text": "Introduction\nI am Lennart, a Master’s student of Data Science with an interest in quantitative and computational methods of Political Science. I work as a research assistant for Max Schaub at the University of Hamburg. Currently, we are investigating the generational effect of wartime victimization on interpersonal trust and social norms in the WarGen-Project, and on how behavioral responses to violence translate into health outcomes for the ViVac-Project.\nGithub: kssrr\nORCiD: 0009-0007-0052-5973\nMail: lennart.kasserra@uni-hamburg.de"
   }
 ]

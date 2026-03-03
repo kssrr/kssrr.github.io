@@ -6,9 +6,7 @@ title: "About"
 
 # Introduction
 
-I am Lennart, a Master’s student of Data Science with an interest in quantitative and computational methods of Political Science. I work as a research assistant for [Max Schaub](https://maxschaub.eu/) at the University of Hamburg, currently on the [generational effect of wartime victimization on interpersonal trust and social norms](https://wargen.eu/index.html). 
-
-Here, I mostly write about R & Python programming, and software I recommend. Thanks for stopping by!
+I am Lennart, a Master’s student of Data Science with an interest in quantitative and computational methods of Political Science. I work as a research assistant for [Max Schaub](https://maxschaub.eu/) at the University of Hamburg. Currently, we are investigating the generational effect of wartime victimization on interpersonal trust and social norms in the [WarGen-Project](https://wargen.eu/index.html), and on how behavioral responses to violence translate into health outcomes for the [ViVac-Project](https://vivac.info/index.html). 
 
 Github: [kssrr](https://github.com/kssrr)
 
